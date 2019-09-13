@@ -1,4 +1,5 @@
-# jQuery Flip <sub><sup>v1.0.20</sup></sub>
+[![Build Status](https://travis-ci.org/nnattawat/flip.svg?branch=master)](https://travis-ci.org/nnattawat/flip)
+# jQuery Flip
 
 **A lightweight jQuery plugin to create 3d flip animation.** 
 See the [project page](http://nnattawat.github.io/flip/)
@@ -6,18 +7,21 @@ See the [project page](http://nnattawat.github.io/flip/)
 ## Getting Started
 
 ### CDN
-    https://cdn.rawgit.com/nnattawat/flip/v1.0.20/dist/jquery.flip.min.js
+  https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js
 
 ### Download 
 * [jquery.flip.js][max] (development version, commented ~9kB)
 * [jquery.flip.min.js][min] (production version, minified ~4kB, gzipped ~2kB)
 * [jquery.flip.min.js.map][map] (source map, ~5kB)
-[max]: https://cdn.rawgit.com/nnattawat/flip/v1.0.20/dist/jquery.flip.js
-[min]: https://cdn.rawgit.com/nnattawat/flip/v1.0.20/dist/jquery.flip.min.js
-[map]: https://cdn.rawgit.com/nnattawat/flip/v1.0.20/dist/jquery.flip.min.js.map
+[max]: https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.js
+[min]: https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js
+[map]: https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js.map
 
 ### Bower
 <pre>bower install flip</pre>
+
+### NPM
+<pre>npm install nnattawat/flip</pre>
 
 ### Usage
 In your web page:
